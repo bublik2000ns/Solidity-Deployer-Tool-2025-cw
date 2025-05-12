@@ -1,1 +1,1 @@
-# Solidity-Deployer-Tool-2025-cw
+лицензия 7 дней
